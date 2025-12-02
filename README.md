@@ -15,7 +15,7 @@ O objetivo é demonstrar na prática como realizar operações de **CRUD** (Cria
 
 | Lista Android | Cadastro (Câmera) | Web Dashboard | Edição Web |
 |:---:|:---:|:---:|:---:|
-| ![Lista](https://via.placeholder.com/150x300?text=App+Lista) | ![Camera](https://via.placeholder.com/150x300?text=App+Camera) | ![Web](indexweb.png) | ![Edit](https://via.placeholder.com/200x150?text=Web+Edit) |
+| ![Lista](android.jpg) | ![Camera](cad.png) | ![Web](indexweb.png) | ![Edit](editar.png) |
 
 ---
 
